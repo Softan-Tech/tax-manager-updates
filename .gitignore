@@ -1,0 +1,10 @@
+*.pem
+*.key
+*.pfx
+*.p12
+.env*
+*config*.json
+*.sqlite*
+*.db
+*.log
+node_modules/
